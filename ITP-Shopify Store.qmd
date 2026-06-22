@@ -1,0 +1,152 @@
+---
+title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
+author: "Luis Berumen"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+    code-tools: true
+    code-overflow: wrap
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+---
+
+# Evidence of Shopify Learning Completion
+
+## Shopify Academy Course Completion
+
+![Shopify Academy dashboard showing completed courses](shopify-academy.png)
+
+## Shopify Admin Guided Tour Completion
+
+![Shopify Admin Guided Tour showing 100% completion](shopify-admin.png)
+
+# Feature Reflection
+
+## Products
+
+The **Products** section allows merchants to create and manage inventory items. Each product can include descriptions, images, prices, variants, inventory levels, and shipping information.
+
+## Collections
+
+**Collections** organize related products into groups that improve customer browsing and product discovery. Collections can be created manually or automatically based on predefined rules.
+
+## Themes
+
+**Themes** control the visual appearance and layout of the online store. Shopify themes can be customized to align with a business's branding and customer experience goals.
+
+## Orders
+
+The **Orders** section centralizes order management by allowing merchants to review purchases, process payments, fulfill orders, and manage returns.
+
+## Customers
+
+The **Customers** section stores customer profiles, purchase history, and contact information. These insights support customer relationship management and targeted marketing.
+
+## Shipping and Delivery
+
+The **Shipping and Delivery** settings allow businesses to configure shipping zones, rates, delivery methods, and shipping profiles for different product categories.
+
+::: callout-tip
+Shopify integrates these features into a single administrative interface, making it easier for businesses to manage daily retail operations efficiently.
+:::
+
+# CPP Farm Store Application Reflection
+
+Shopify could effectively support CPP Farm Store or a similar local retail business by providing a centralized platform for managing products, inventory, customer orders, and online payments. The platform would enable the farm store to organize products into collections such as produce, orange juice, and specialty items while offering local pickup or delivery options. Shopify's analytics and marketing tools could help the business understand customer preferences, track sales trends, and improve promotional efforts. By extending operations online, CPP Farm Store could increase its visibility and better serve both on-campus and local customers.
+
+# Appendix
+
+## GitHub Pages Website
+
+[Pages Website](https://brahhmen55.github.io/ITP-W03-Shopify-Store---Assignment-1---Shopify-Orientation-and-Admin-Exploration/){target="_blank"}
+
+## GitHub Repository
+
+[GitHub Repository](https://github.com/Brahhmen55/ITP-W03-Shopify-Store---Assignment-1---Shopify-Orientation-and-Admin-Exploration){target="_blank"}
+=======
+---
+title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
+author: "Luis Berumen"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+    code-tools: true
+    code-overflow: wrap
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+---
+
+# Evidence of Shopify Learning Completion
+
+## Shopify Academy Course Completion
+
+![Shopify Academy dashboard showing completed courses](shopify-academy.png)
+
+## Shopify Admin Guided Tour Completion
+
+![Shopify Admin Guided Tour showing 100% completion](shopify-admin.png)
+
+# Feature Reflection
+
+## Products
+
+The **Products** section allows merchants to create and manage inventory items. Each product can include descriptions, images, prices, variants, inventory levels, and shipping information.
+
+## Collections
+
+**Collections** organize related products into groups that improve customer browsing and product discovery. Collections can be created manually or automatically based on predefined rules.
+
+## Themes
+
+**Themes** control the visual appearance and layout of the online store. Shopify themes can be customized to align with a business's branding and customer experience goals.
+
+## Orders
+
+The **Orders** section centralizes order management by allowing merchants to review purchases, process payments, fulfill orders, and manage returns.
+
+## Customers
+
+The **Customers** section stores customer profiles, purchase history, and contact information. These insights support customer relationship management and targeted marketing.
+
+## Shipping and Delivery
+
+The **Shipping and Delivery** settings allow businesses to configure shipping zones, rates, delivery methods, and shipping profiles for different product categories.
+
+::: callout-tip
+Shopify integrates these features into a single administrative interface, making it easier for businesses to manage daily retail operations efficiently.
+:::
+
+# CPP Farm Store Application Reflection
+
+Shopify could effectively support CPP Farm Store or a similar local retail business by providing a centralized platform for managing products, inventory, customer orders, and online payments. The platform would enable the farm store to organize products into collections such as produce, orange juice, and specialty items while offering local pickup or delivery options. Shopify's analytics and marketing tools could help the business understand customer preferences, track sales trends, and improve promotional efforts. By extending operations online, CPP Farm Store could increase its visibility and better serve both on-campus and local customers.
+
+# Appendix
+
+## GitHub Pages Website
+
+[Pages Website](https://brahhmen55.github.io/ITP-W03-Shopify-Store---Assignment-1---Shopify-Orientation-and-Admin-Exploration/){target="_blank"}
+
+## GitHub Repository
+
+[GitHub Repository](https://github.com/Brahhmen55/ITP-W03-Shopify-Store---Assignment-1---Shopify-Orientation-and-Admin-Exploration){target="_blank"}
+>>>>>>> 79f4858e5df6dce2504faf723ca188c7745e865b
