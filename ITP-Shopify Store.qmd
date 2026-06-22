@@ -62,7 +62,7 @@ Shopify integrates these features into a single administrative interface, making
 
 # CPP Farm Store Application Reflection
 
-Shopify could effectively support CPP Farm Store or a similar local retail business by providing a centralized platform for managing products, inventory, customer orders, and online payments. The platform would enable the farm store to organize products into collections such as seasonal produce, orange juice, and specialty items while offering local pickup or delivery options. Shopify's analytics and marketing tools could help the business understand customer preferences, track sales trends, and improve promotional efforts. By extending operations online, CPP Farm Store could increase its visibility and better serve both on-campus and local customers.
+Shopify could effectively support CPP Farm Store or a similar local retail business by providing a centralized platform for managing products, inventory, customer orders, and online payments. The platform would enable the farm store to organize products into collections such as produce, orange juice, and specialty items while offering local pickup or delivery options. Shopify's analytics and marketing tools could help the business understand customer preferences, track sales trends, and improve promotional efforts. By extending operations online, CPP Farm Store could increase its visibility and better serve both on-campus and local customers.
 
 # Appendix
 
