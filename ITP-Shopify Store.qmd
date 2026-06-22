@@ -68,8 +68,8 @@ Shopify could effectively support CPP Farm Store or a similar local retail busin
 
 ## GitHub Pages Website
 
-https://brahhmen55.github.io/ITP-W03-Shopify-Store---Assignment-1---Shopify-Orientation-and-Admin-Exploration/
+[Pages Website](https://brahhmen55.github.io/ITP-W03-Shopify-Store---Assignment-1---Shopify-Orientation-and-Admin-Exploration/){target="_blank"}
 
 ## GitHub Repository
 
-https://github.com/Brahhmen55/ITP-W03-Shopify-Store---Assignment-1---Shopify-Orientation-and-Admin-Exploration
+[GitHub Repository](https://github.com/Brahhmen55/ITP-W03-Shopify-Store---Assignment-1---Shopify-Orientation-and-Admin-Exploration){target="_blank"}
